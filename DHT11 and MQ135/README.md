@@ -13,3 +13,5 @@
      4. DHT11 sensor
 
      5. MQ-135 sensor
+     
+     6. Bread board
