@@ -2,10 +2,12 @@
 
 REQUIRED COMPONENTS-
 
-1. Arduino
+1. Arduino UNO
 
-2. jumper wires (male-male,male-female)
+2. Software- Arduino IDE
 
-3. DHT11 sensor
+3. jumper wires (male-male,male-female)
 
-4. MQ-135 sensor
+4. DHT11 sensor
+
+5. MQ-135 sensor
