@@ -1,13 +1,15 @@
 # DHT11 and MQ135
 
-REQUIRED COMPONENTS-
+***TO MEASURE TEMPERATURE, HUMIDITY and AQI**
 
-1. Arduino UNO
+**REQUIRED COMPONENTS-**
 
-2. Software- Arduino IDE
+     1. Arduino UNO
 
-3. jumper wires (male-male,male-female)
+     2. Software- Arduino IDE
 
-4. DHT11 sensor
+     3. jumper wires (male-male,male-female)
 
-5. MQ-135 sensor
+     4. DHT11 sensor
+
+     5. MQ-135 sensor
