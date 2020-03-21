@@ -1,1 +1,3 @@
-# Simple-Arduino-projects
+# Simple Arduino UNO projects
+
+**THESE ARE FEW SIMPLE ARDUINO UNO PROJECTS FOR BEGINNERS**
