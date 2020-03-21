@@ -15,3 +15,5 @@
     5. MQ-135 sensor
 
     6. DHT11 sensor
+    
+    7. breadboard
