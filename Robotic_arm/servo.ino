@@ -9,7 +9,7 @@
  {
   s1.attach(9);
   s2.attach(10);
-  s3.attach(13);
+  s3.attach(11);
   
   Serial.begin(9600);
  
@@ -31,7 +31,7 @@ int p=90,q=90,r=90;
         {
           s1.write(pos);
           
-          delay(1);
+          delay(10);
         }
       }
       
@@ -45,7 +45,7 @@ int p=90,q=90,r=90;
          {
         s1.write(pos);
        
-         delay(1);
+         delay(10);
        }
       }
        if(value==3)
@@ -57,7 +57,7 @@ int p=90,q=90,r=90;
         {
         s2.write(q);
         
-          delay(1);
+          delay(10);
         }
       }
       
@@ -70,7 +70,7 @@ int p=90,q=90,r=90;
          {
         s2.write(q);
         
-          delay(1);
+          delay(10);
        }}
        
        if(value==5)
@@ -82,7 +82,7 @@ int p=90,q=90,r=90;
         {
         s3.write(r);
        
-          delay(1);
+          delay(10);
         }
       }
       
@@ -95,7 +95,7 @@ int p=90,q=90,r=90;
          {
             s3.write(r);
         
-          delay(1);
+          delay(10);
        }}
           
         
